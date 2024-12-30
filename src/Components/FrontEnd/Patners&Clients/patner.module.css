@@ -1,0 +1,21 @@
+.PatnersContainer{
+    margin-top: 160px;
+    overflow-x: hidden;
+    
+}
+
+.PatnersHeader{
+    text-align: center;
+}
+
+.PatnersCarosul{
+    display: flex;
+    justify-content: space-between;
+
+    padding: 0 100px;
+    margin-top: 50px;
+}
+
+.PatnersCarosul img{
+    margin-right: 50px;
+}

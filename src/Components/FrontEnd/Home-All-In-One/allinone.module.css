@@ -1,0 +1,74 @@
+.AllinOneContainer{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+
+}
+.AllinOneHeader{
+    width: 80%;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+}
+
+.AllinOneHeader h1{
+    font-size: 70px;
+    margin-top: 20px;
+}
+
+.AllinOneHeader h3{
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+.AllinOneHeader h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ff5588;
+    color: white;
+    width: 200px;
+    padding: 5px 0;
+    border-radius: 20px;
+}
+
+.AllinOneHeader h2 svg{
+    font-size: 40px;
+    color: goldenrod;
+}
+
+.AllinOneCardsWrap{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+.AllinOneCard{
+   
+    width: 45%;
+    background: rgba(0, 0, 0, 0.2);
+    padding-top: 20px;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 10px rgba(0, 0, 0,0.3);
+}
+
+.AllinOneCard h1{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.AllinOneCard h2{
+   margin-top: 20px;
+   font-weight: 500;
+}
+
+.AllinOneCard img{
+    width: 100%;
+}
